@@ -17,8 +17,8 @@ udis86不要用AUR里的那个，这里已经给出安装包
 经测试大多数桌面环境都可完美运行，dde，xfce，gnome，openbox，awesome都没什么问题，唯独kde有些小问题，这个可能是deepin-wine本身的问题
 
 (重要)如果使用TIM经常用一会就闪退的话，因该是~/.deepinwine/Deepin-TIM/drive_c/windows/system32/msls31.dll这东西的锅，据说bug已经修复了。。。还是有问题的话就从网上下个msls31.dll然后覆盖掉
-![image](https://git.oschina.net/arkli/deepinwine-arch/raw/master/QQ.png)
-![image](https://git.oschina.net/arkli/deepinwine-arch/raw/master/TIM.png)
+![image](QQ.png)
+![image](TIM.png)
 
 PS：完全搬运自deepin，这里只是打了个包
 =======
